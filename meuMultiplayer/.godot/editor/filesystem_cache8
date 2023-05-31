@@ -1,0 +1,11 @@
+2a60927148abd1d33b818b535e306557
+::res://::1685213076
+CyberIcon.png::CompressedTexture2D::6776818788612935399::1684714163::1684714181::1::::<><>::
+icon.svg::CompressedTexture2D::240277020484740047::1684512372::1684512416::1::::<><>::
+::res://assets/::1684512466
+::res://scenes/::1685212808
+jogador.tscn::PackedScene::2488939405672289488::1685212808::0::1::::<><>::res://scripts/jogador.gd<>uid://donlerao3c3p
+menu.tscn::PackedScene::1146677603981263988::1685212808::0::1::::<><>::res://scripts/menu.gd
+::res://scripts/::1685212806
+jogador.gd::GDScript::-1::1684606749::0::1::::<>CharacterBody2D<>::
+menu.gd::GDScript::-1::1685212806::0::1::::<>Control<>::

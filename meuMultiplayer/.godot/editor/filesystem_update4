@@ -1,0 +1,4 @@
+res://scenes/menu.tscn
+res://scripts/jogador.gd
+res://scripts/menu.gd
+res://scenes/jogador.tscn
